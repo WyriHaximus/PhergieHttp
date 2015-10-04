@@ -1,5 +1,7 @@
 # WyriHaximus/PhergieHttp
 
+# DEPRECATED: Warning this plugin has been deprecated in favor of https://github.com/phergie/plugin-http
+
 [Phergie](http://github.com/phergie/phergie-irc-bot-react/) plugin for Provide HTTP functionality to other plugins.
 
 [![Build Status](https://secure.travis-ci.org/WyriHaximus/PhergieHttp.png?branch=master)](http://travis-ci.org/WyriHaximus/PhergieHttp)
